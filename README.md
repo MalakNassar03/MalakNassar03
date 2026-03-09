@@ -1,4 +1,4 @@
-# Malak-nassar
+# Malak-Nassar
 # 💫 About Me:
 Hi, I'm Malak 🤍<br>A Computer Engineer specialized in computer networks and security, passionate about building secure, intelligent, and user centered systems.<br><br>I work across full stack and web development, and AI driven applications, turning complex ideas into real world solutions. My experience includes designing responsive web interfaces, developing scalable backend services, and building intelligent retrieval systems using machine learning techniques.<br><br>I enjoy working with Python, Java, C, JavaScript, React, Vue, Node.js, Flask, HTML, CSS, MySQL, PostgreSQL, Docker, and AWS, and I am always exploring new technologies that push my skills forward.<br><br>My main interests are web technologies, privacy focused software, distributed systems, cloud infrastructure, and applied artificial intelligence. I love creating technology that is both powerful and meaningful.<br><br>🌷 Full Stack and Web Developer<br>🔐 Networks and Security Focused<br>🧠 AI and Intelligent Systems Explorer<br><br>Always learning, always building, always curious 💫
 
